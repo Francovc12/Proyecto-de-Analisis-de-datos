@@ -8,3 +8,5 @@ columnas:
 *   Cantidad Pedida: contiene la cantidad pedida del producto al momento de comprar
 *   Fecha de Pedido: contiene la fecha exacta del pedido con la hora 
 *   Dirreccion de Envio: contiene la dirrecion del envio con calle, ciudad y codigo postal
+
+abrir en colab para ver los graficos
