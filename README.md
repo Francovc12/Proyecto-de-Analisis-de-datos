@@ -1,5 +1,5 @@
 # Proyecto-de-Analisis-de-datos
-El siguiente trabajo trata sobre un analis exploratorio de los datos obtenidos en diferentes meses a lo largo de los año de una compania x donde encontraremos una buena informacion sobre ¿Que productos son los mas vendidos?¿En que dia y horario se compra mas productos?¿Cual es el producto con mayor ingreso?¿Que ciudad tuvo mayor cantidad de compra? y demas datos a ser analizados a continuacion.
+El siguiente trabajo trata sobre un analisis exploratorio de los datos obtenidos en diferentes meses a lo largo de los año de una compania 'x' donde encontraremos una buena informacion sobre ¿Que productos son los mas vendidos?¿En que dia y horario se compra mas productos?¿Cual es el producto con mayor ingreso?¿Que ciudad tuvo mayor cantidad de compra? y demas datos a ser analizados a continuacion.
 Explicacion del data set a utilizar:
 columnas:
   
