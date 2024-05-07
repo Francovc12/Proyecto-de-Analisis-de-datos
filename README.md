@@ -1,4 +1,4 @@
-# Proyecto-de-Analisis-de-datos
+# Proyecto de Analisis de datos
 El siguiente trabajo trata sobre un analisis exploratorio de los datos obtenidos en diferentes meses a lo largo de los año de una compania 'x' donde encontraremos una buena informacion sobre ¿Que productos son los mas vendidos?¿En que dia y horario se compra mas productos?¿Cual es el producto con mayor ingreso?¿Que ciudad tuvo mayor cantidad de compra? y demas datos a ser analizados a continuacion.
 Explicacion del data set a utilizar:
 columnas:
@@ -10,3 +10,15 @@ columnas:
 *   Dirreccion de Envio: contiene la dirrecion del envio con calle, ciudad y codigo postal
 
 abrir en colab para ver los graficos
+
+
+enlace: https://colab.research.google.com/github/Francovc12/Proyecto-de-Analisis-de-datos/blob/main/Analis_de_ventas.ipynb
+
+## Tecnologias usadas
+* Python(Pandas,Plotly) :snake:
+* Google Colab
+* Google Drive
+
+## Autor 
+* Ignacio Franco Villca - Tec. Tencnologias de Programación
+
